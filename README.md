@@ -49,3 +49,4 @@ website-data-scraper/
 ## Purpose
 
 This project was created as part of a professional portfolio focused on web scraping, data collection, and Python automation.
+<img width="1915" height="962" alt="Снимок экрана 2026-05-11 221049" src="https://github.com/user-attachments/assets/97e432ee-7d3d-478a-9a3e-33d3291ce21b" />
