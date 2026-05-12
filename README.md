@@ -1,16 +1,16 @@
 # Website Data Scraper
 
-A practical Python scraping tool for collecting structured product data from websites and exporting it into CSV and Excel files.
+A practical Python scraping tool for collecting structured product data from websites and exporting clean CSV and Excel files.
 
 ## Output Preview
 
-<img width="906" height="905" alt="Снимок экрана 2026-05-12 182803" src="https://github.com/user-attachments/assets/a9d57c2d-cb27-4695-9316-557923b4ef90" />
+<img width="906" height="905" alt="Output Preview" src="ТВОЯ_ССЫЛКА_НА_ТАБЛИЦУ" />
 
 ## What this project does
 
-This scraper collects structured product data from multiple pages, processes the information, and exports clean output ready for analysis or business use.
+This scraper collects product data from multiple pages and converts raw website information into clean structured datasets ready for analysis, reporting, or business use.
 
-Collected data includes:
+### Extracted data
 
 - Product title
 - Price
@@ -21,9 +21,8 @@ Collected data includes:
 
 - Multi-page scraping
 - CSV export
-- Excel export
-- Automatic Excel formatting
-- Error handling
+- Excel export with formatting
+- Request error handling
 - Clean structured output
 - Customizable scraping logic
 
@@ -36,27 +35,9 @@ Collected data includes:
 
 ## Project Preview
 
-<img width="1899" height="912" alt="Снимок экрана 2026-05-12 182853" src="https://github.com/user-attachments/assets/746f2037-e843-4ed8-998b-8edebcd36585" />
-
+<img width="1899" height="912" alt="Project Preview" src="ТВОЯ_ССЫЛКА_НА_GITHUB_СКРИН" />
 
 ## Installation
 
 ```bash
 pip install -r requirements.txt
-```
-
-## Run
-
-```bash
-python scraper.py
-```
-
-## Business Use Cases
-
-This workflow can be used for:
-
-- Product data collection
-- Competitor monitoring
-- Catalog extraction
-- Structured data gathering
-- Business research
