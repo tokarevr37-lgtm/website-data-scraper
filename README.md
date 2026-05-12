@@ -4,7 +4,7 @@ A practical Python scraping tool for collecting structured product data from web
 
 ## Output Preview
 
-<img width="906" height="905" alt="Output Preview" src="https://github.com/user-attachments/assets/a9d57c2d-cb27-4695-9316-557923b4ef90" />
+<img width="650" alt="Output Preview" src="https://github.com/user-attachments/assets/a9d57c2d-cb27-4695-9316-557923b4ef90" />
 
 ## What this project does
 
@@ -35,7 +35,7 @@ This scraper collects product data from multiple pages and converts raw website 
 
 ## Project Preview
 
-<img width="1899" height="912" alt="Project Preview" src="https://github.com/user-attachments/assets/746f2037-e843-4ed8-998b-8edebcd36585" />
+<img width="1000" alt="Project Preview" src="https://github.com/user-attachments/assets/746f2037-e843-4ed8-998b-8edebcd36585" />
 
 ## Installation
 
