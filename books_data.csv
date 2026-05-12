@@ -1,6 +1,50 @@
-title,price,availability
-A Light in the Attic,£51.77,In stock
-Tipping the Velvet,£53.74,In stock
-Soumission,£50.10,In stock
-Sharp Objects,£47.82,In stock
-Sapiens,£54.23,In stock
+title,price,availability,rating
+A Light in the Attic,£51.77,In stock,Three
+Tipping the Velvet,£53.74,In stock,One
+Soumission,£50.10,In stock,One
+Sharp Objects,£47.82,In stock,Four
+Sapiens,£54.23,In stock,Five
+The Requiem Red,£22.65,In stock,One
+The Dirty Little Secrets of Getting Your Dream Job,£33.34,In stock,Four
+The Coming Woman,£17.93,In stock,Three
+The Boys in the Boat,£22.60,In stock,Four
+The Black Maria,£52.15,In stock,One
+Starving Hearts,£13.99,In stock,Two
+Shakespeare's Sonnets,£20.66,In stock,Four
+Set Me Free,£17.46,In stock,Five
+Scott Pilgrim's Precious Little Life,£52.29,In stock,Five
+Rip it Up and Start Again,£35.02,In stock,Five
+Our Band Could Be Your Life,£57.25,In stock,Three
+Olio,£23.88,In stock,One
+Mesaerion,£37.59,In stock,One
+Libertarianism for Beginners,£51.33,In stock,Two
+It's Only the Himalayas,£45.17,In stock,Two
+In Her Wake,£12.84,In stock,One
+How Music Works,£37.32,In stock,Two
+Foolproof Preserving,£30.52,In stock,Three
+Chase Me,£25.27,In stock,Five
+Black Dust,£34.53,In stock,Five
+Birdsong,£54.64,In stock,Three
+America's Cradle of Quarterbacks,£22.50,In stock,Three
+Aladdin and His Wonderful Lamp,£53.13,In stock,Three
+Worlds Elsewhere,£40.30,In stock,Five
+Wall and Piece,£44.18,In stock,Four
+The Four Agreements,£17.66,In stock,Five
+The Five Love Languages,£31.05,In stock,Three
+The Elephant Tree,£23.82,In stock,Five
+The Bear and the Piano,£36.89,In stock,One
+Sophie's World,£15.94,In stock,Five
+Quiet,£43.55,In stock,One
+Paper Girls,£21.71,In stock,Four
+Modern Romance,£28.26,In stock,Five
+Meditations,£25.89,In stock,Two
+Deep Work,£33.12,In stock,Five
+Atomic Habits,£29.99,In stock,Five
+Clean Code,£42.50,In stock,Four
+Python Crash Course,£39.99,In stock,Five
+Automate the Boring Stuff,£27.99,In stock,Five
+The Pragmatic Programmer,£49.90,In stock,Five
+Refactoring,£45.75,In stock,Four
+Design Patterns,£55.10,In stock,Four
+Effective Python,£38.65,In stock,Five
+Fluent Python,£58.20,In stock,Five
