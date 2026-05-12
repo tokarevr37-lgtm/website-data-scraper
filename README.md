@@ -2,8 +2,6 @@
 
 A practical Python scraping tool for collecting structured product data from websites and exporting it into CSV and Excel files.
 
-<img width="1100"  alt="Снимок экрана 2026-05-12 182853" src="https://github.com/user-attachments/assets/a17ef348-1526-4878-a32c-60b813152cc4" />
-
 ## What this project does
 
 This scraper collects product information from multiple pages, processes the data, and exports clean structured output for further use.
@@ -33,6 +31,8 @@ Collected data includes:
 - OpenPyXL
 
 ## Project Structure
+
+<img width="1100"  alt="Снимок экрана 2026-05-12 182853" src="https://github.com/user-attachments/assets/a17ef348-1526-4878-a32c-60b813152cc4" />
 
 ```bash
 website-data-scraper/
