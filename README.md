@@ -30,7 +30,7 @@ Collected data includes:
 - BeautifulSoup
 - OpenPyXL
 
-## Project Structure
+## Project Preview
 
 <img width="1100"  alt="Снимок экрана 2026-05-12 182853" src="https://github.com/user-attachments/assets/a17ef348-1526-4878-a32c-60b813152cc4" />
 
