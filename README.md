@@ -2,7 +2,7 @@
 
 A practical Python scraping tool for collecting structured product data from websites and exporting it into CSV and Excel files.
 
-<img width="1899" height="912" alt="Снимок экрана 2026-05-12 182853" src="https://github.com/user-attachments/assets/a17ef348-1526-4878-a32c-60b813152cc4" />
+<img width="1100"  alt="Снимок экрана 2026-05-12 182853" src="https://github.com/user-attachments/assets/a17ef348-1526-4878-a32c-60b813152cc4" />
 
 ## What this project does
 
